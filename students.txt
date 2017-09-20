@@ -3,3 +3,6 @@ Add your full name and GitHub username below:
 Nicholas Nelson (nelsonni)
 Caius Brindescu (caiusb)
 Erich Kramer    (ErichKramer)
+Ryan Howerton (rthowerton)
+William Wodrich (wodrichw)
+Terri Hewitt (terri-hewitt)
