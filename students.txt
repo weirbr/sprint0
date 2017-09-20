@@ -2,6 +2,7 @@ Add your full name and GitHub username below:
 
 Nicholas Nelson (nelsonni)
 Caius Brindescu (caiusb)
+Jonathan Ropp (roppjo)
 Erich Kramer    (ErichKramer)
 Ryan Howerton (rthowerton)
 William Wodrich (wodrichw)
