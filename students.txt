@@ -1,5 +1,6 @@
 Add your full name and GitHub username below:
 
+Cody Schlabach (codyschlabach)
 Garen Porter (porterga)
 Nicholas Nelson (nelsonni)
 Caius Brindescu (caiusb)
