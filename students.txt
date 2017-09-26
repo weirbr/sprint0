@@ -1,5 +1,6 @@
 Add your full name and GitHub username below:
 
+Jonathan Buntin (buntinj)
 Arlen Moore (moorear)
 Cody Schlabach (codyschlabach)
 Garen Porter (porterga)
