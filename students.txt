@@ -1,4 +1,5 @@
 Add your full name and GitHub username below:
+Dean A. Akin  (akinde)
 Ayush Choudhury (AyushChoudhury)
 Jonathan Buntin (buntinj)
 Arlen Moore (moorear)
@@ -115,3 +116,7 @@ Johnny Po (jawhnypoh)
 Daniel Lee (danyollee)
 Vincent Ta (vincentta)
 Kyle Andrews (andrekyl)
+James Zeng (jazeng)
+Daniel Elliott (elliotda)
+Cory Hayes (Cjay84)
+Devon Cash (cashd932)
