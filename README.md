@@ -1,7 +1,7 @@
-# Project 0
-Repository for Project Stage 0 assignment
+# Sprint 0
+Repository for Sprint 0 assignment
 
-This assignment is the only individual assignment; Project Stages 1-4 will be group assignments. Each student is expected to complete this assignment on their own. Please review all instruction steps, and the grading rubric section, before beginning the assignment. Prioritize your efforts accordingly.
+This assignment is the only individual assignment; Sprints 1-4 will be group assignments. Each student is expected to complete this assignment on their own. Please review all instruction steps, and the grading rubric section, before beginning the assignment. Prioritize your efforts accordingly.
 
 1. Sign-up for a GitHub account (preferably using your school email). If you already have a GitHub account, you can skip this step.
 2. Post your GitHub username to the Discussion thread titled GitHub Usernames (see thread for instructions on finding your username).
