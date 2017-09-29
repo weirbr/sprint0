@@ -1,4 +1,6 @@
 Add your full name and GitHub username below:
+
+Ben Windheim (windheib)
 Dean A. Akin  (akinde)
 Ayush Choudhury (AyushChoudhury)
 Jonathan Buntin (buntinj)
